@@ -1,6 +1,6 @@
 ---
 title: My First Page
-layout: default
+layout: linshi
 ---
 
 This is the content of my page
